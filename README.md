@@ -14,7 +14,7 @@ a. Basic Object Detection using OpenCV and Haar Cascades
 <br>
 b. Object Detection with YOLO (You Only Look Once) 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/3b-object-detection-with-yolo.ipynb">Link</a>
-<br>
+<br><br>
 4. Object Classification
 <br>
 a. Basic Object Classification using Pre-trained VGG16 Model 
@@ -22,7 +22,7 @@ a. Basic Object Classification using Pre-trained VGG16 Model
 <br>
 b. ImageNet Classification with Deep Residual Networks (ResNet) 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/4b-imagenet-classification-resnet.ipynb">Link</a>
-<br>
+<br><br>
 5. Text Classification
 <br>
 a. Basic Text Classification using Naive Bayes and Bag-of-Words 
@@ -30,7 +30,7 @@ a. Basic Text Classification using Naive Bayes and Bag-of-Words
 <br>
 b. News Article Categorization using BERT 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/5b-news-article-categorization-using-bert.ipynb">Link</a>
-<br>
+<br><br>
 6. Sentiment Analysis
 <br>
 a. Basic Sentiment Analysis using Logistic Regression 
@@ -38,7 +38,7 @@ a. Basic Sentiment Analysis using Logistic Regression
 <br>
 b. Twitter Sentiment Analysis using LSTM and GloVe Embeddings 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/6b-twitter-sentiment-analysis-using-lstm-and-glove.ipynb">Link</a>
-<br>
+<br><br>
 7. Text Summarization
 <br>
 a. Basic Text Summarization using TF-IDF and Cosine Similarity 
@@ -46,7 +46,7 @@ a. Basic Text Summarization using TF-IDF and Cosine Similarity
 <br>
 b. Abstractive Text Summarization with Transformers 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/7b-abstractive-text-summarization-with-transformer.ipynb">Link</a>
-<br>
+<br><br>
 8. Text Entailment
 <br>
 a. Basic Text Entailment using Simple Rule-Based Methods 
@@ -54,7 +54,7 @@ a. Basic Text Entailment using Simple Rule-Based Methods
 <br>
 b. Natural Language Inference with BERT 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/8b-natural-language-inference-with-bert.ipynb">Link</a>
-<br>
+<br><br>
 9. Word and Sentence Embedding
 <br>
 a. Basic Word Embeddings with TF-IDF 
@@ -62,7 +62,7 @@ a. Basic Word Embeddings with TF-IDF
 <br>
 b. Generating Word Embeddings using Word2Vec and GloVe 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/9b-basic-word-embeddings-with-tf-idf.ipynb">Link</a>
-<br>
+<br><br>
 10. Question Answering
 <br>
 a. Basic Q&A System using Keyword Matching 
@@ -73,7 +73,7 @@ b. Building a Q&A System with BERT
 <br>
 c. Question Answering on SQuAD Dataset using Transformers 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/10c-question-answering-on-squad-dataset-transform.ipynb">Link</a>
-<br>
+<br><br>
 11. Machine Translation
 <br>
 a. Basic Machine Translation using Rule-Based Methods 
@@ -81,7 +81,7 @@ a. Basic Machine Translation using Rule-Based Methods
 <br>
 b. English to French Translation using Seq2Seq with Attention 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/11b-english-to-french-translation-seq2seq.ipynb">Link</a>
-<br>
+<br><br>
 12. Dialogue System
 <br>
 a. Basic Rule-Based Chatbot using Python NLTK 
