@@ -1,4 +1,4 @@
-2 Image Classification
+<h1>2 Image Classification
 <br>a. Basic Image Classification using CIFAR-10
 Dataset     <h6>https://github.com/vpavithiran/DL_all_program/blob/main/dl-ex-2a-basic-image-classification-using-cifar-1.ipynb</h6>
 b. Handwritten Digit Recognition using CNNs
