@@ -1,4 +1,4 @@
-<h1> NOTE BOOKS LINK</h1>
+<h1> NOTE BOOKS LINKS</h1>
 <h5>All dataset links are available inside the notebook </h5>
 <h3>2. Image Classification</h3>
 <br>
