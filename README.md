@@ -2,7 +2,7 @@
 <br>
 a. Basic Image Classification using CIFAR-10 Dataset 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/dl-ex-2a-basic-image-classification-using-cifar-1.ipynb">Link</a>
-<br>
+
 b. Handwritten Digit Recognition using CNNs (MNIST Dataset) 
 <a href="https://github.com/vpavithiran/DL_all_program/blob/main/dl-ex-2b-handwritten-digit-recognition-using-cnns.ipynb">Link</a>
 <br>
