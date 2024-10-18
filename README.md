@@ -1,3 +1,4 @@
+<h2> NOTE BOOKS LINK</h2>
 <h3>2. Image Classification</h3>
 <br>
 a. Basic Image Classification using CIFAR-10 Dataset 
