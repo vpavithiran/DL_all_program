@@ -1,7 +1,7 @@
 2 Image Classification
 <br>a. Basic Image Classification using CIFAR-10
 Dataset     <h6>https://github.com/vpavithiran/DL_all_program/blob/main/dl-ex-2a-basic-image-classification-using-cifar-1.ipynb</h6>
-<br>b. Handwritten Digit Recognition using CNNs
+b. Handwritten Digit Recognition using CNNs
 (MNIST Dataset) <h6>https://github.com/vpavithiran/DL_all_program/blob/main/dl-ex-2b-handwritten-digit-recognition-using-cnns.ipynb</h6>
 
 3 Object Detection
