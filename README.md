@@ -1,5 +1,5 @@
 2 Image Classification
-a. Basic Image Classification using CIFAR-10
+<br>a. Basic Image Classification using CIFAR-10
 Dataset 
 b. Handwritten Digit Recognition using CNNs
 (MNIST Dataset)
